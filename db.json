@@ -1,0 +1,7 @@
+{
+    "products": [
+      { "id": 1, "name": "Savings Account", "rate": 2.5 },
+      { "id": 2, "name": "Mortgage Loan", "rate": 3.8 }
+    ]
+  }
+  
