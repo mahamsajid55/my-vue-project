@@ -1,7 +1,7 @@
 {
     "products": [
-      { "id": 1, "name": "Savings Account", "rate": 2.5 },
-      { "id": 2, "name": "Mortgage Loan", "rate": 3.8 }
+      { "id": 1, "name": "Bank Loan", "interest": "5%" },
+      { "id": 2, "name": "Mortgage", "interest": "3.2%" }
     ]
   }
   
